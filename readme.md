@@ -1,6 +1,6 @@
 <div align="center">
     <h1>PUBG.py</h1>
-
+</div>
 #Installiaton
 This Project isn't completed yet. Feel free to commit or PR.
 ```
