@@ -1,7 +1,9 @@
 <div align="center">
     <h1>PUBG.py</h1>
 </div>
-#Installiaton
+
+# Installation
+
 This Project isn't completed yet. Feel free to commit or PR.
 ```
 pip install -U https://github.com/byWambo/PUBG.py.git
