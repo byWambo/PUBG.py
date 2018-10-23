@@ -10,7 +10,7 @@ class HTTP:
         }
         self.r = None
         self.response = self.make_request(url)
-        self.json = self.r.json()
+        self.json = self.response.json()
 
     def make_request(self, endpoint):
         self.r = requests.get(endpoint, headers=self.headers)

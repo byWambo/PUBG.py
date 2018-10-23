@@ -20,6 +20,7 @@ import logging
 import sys
 
 from pubg.http import *
+from pubg.utils import *
 
 fmt = '[%(levelname)s] %(asctime)s - %(name)s:%(lineno)d - %(message)s'
 logging.basicConfig(format=fmt, level=logging.INFO)
